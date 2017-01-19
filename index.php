@@ -1,3 +1,3 @@
  <?php 
- echo "We love unicorns!!  My Pod's IP is ".$_SERVER['SERVER_ADDR'] ;
+ echo "OpenShift is AWESOME!!  My Pod's IP is ".$_SERVER['SERVER_ADDR'] ;
  ?>
